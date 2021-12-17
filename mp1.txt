@@ -1,5 +1,3 @@
-ADD SUB-CLAUSE in CLAUSE 11:
-
 The Department of Conservation may lease land inside conservation areas for an interval of at least 15 years to New-Zealand residents by auction. 
 
 (a) This land shall remain designated as 'conservation land' and therefore in the terms of any such lease it must be required that:
@@ -7,12 +5,11 @@ The Department of Conservation may lease land inside conservation areas for an i
 
 (ii) DOC retains the right to undertake ecological research and management activities on this land,
 
-(iii) DOC shall fine any tenant who is responsible, knowingly or otherwise, for an increase in the population of predators to threatened endemic species, on their land,
+(iii) DOC may fine or prematurely end the lease of any tenant who is responsible, knowingly or otherwise, for an increase in the population of predators to threatened endemic species, on their land,
 
-(iv) DOC shall fine or prematurely end the lease of any tenant who is responsible, knowingly or otherwise, for a decrease in the population of threatened endemic species on their land.
+(iv) After one initial warning, DOC may fine or prematurely end the lease of any tenant who is responsible, knowingly or otherwise, for a decrease in the population of threatened endemic species on their land.
 
 (b) DOC shall award a cash bonus at the expiration of such a lease equal to the mean percentage change in the wild population count of each threatened endemic fauna species times the amount paid for the lease.
 
 (i) The figures for the population counts of each species before the lease shall be the average of all available data for the five years preceding the beginning of the lease, and the figures for the end of the end of the lease shall be the average of all available data for the four years preceding the expiration of the lease.
 
-(c) DOC may not have an annual budget exceeding 0.1% of New-Zealand's GDP average according to Statistics NZ over the preceding 3-year interval (inflation adjusted), by 2025. 
